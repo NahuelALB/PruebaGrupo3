@@ -1,7 +1,7 @@
 function resto(a, b) {
-    let holaSoyElResto = a % b
+    let holaSoyEl = a % b
 
-    return holaSoyElResto;
+    return holaSoyEl;
 };
 
-console.log(resto(10, 6));
+console.log(resto(1000, 23213));
